@@ -23,5 +23,5 @@ It also contains a prettifier module (beore capitalization) to clean sentences.
 * python-twitter
 
 ## Authors
-@marianarfr
-@ricalanis
+- @marianarfr
+- @ricalanis
